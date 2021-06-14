@@ -1,0 +1,9 @@
+[
+"allow_in_tags": ["p", "a", "b", "i", "u", "span"],
+    "title_tag": "h1",
+    "title_tag_attributes": {},
+    "content_tag": "p",
+    "content_tag_attributes": {},
+    "word_wrap": 80,
+    "link_tag": "a",
+]
